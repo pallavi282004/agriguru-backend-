@@ -1,0 +1,7 @@
+soil_type,rainfall,temperature,region,best_crop
+Loamy,200,27,South,Rice
+Clay,150,25,North,Wheat
+Sandy,100,30,West,Millet
+Loamy,180,26,East,Rice
+Clay,160,24,South,Wheat
+Sandy,90,32,North,Millet
