@@ -4,3 +4,12 @@ xgboost
 scikit-learn
 twilio
 gunicorn
+Flask
+Flask-SQLAlchemy
+xgboost
+pandas
+numpy
+scikit-learn
+gunicorn
+twilio
+python-dotenv
