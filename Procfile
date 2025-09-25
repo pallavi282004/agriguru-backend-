@@ -1,1 +1,2 @@
-web: gunicorn api:app
+web: gunicorn agriguru_api:app
+
